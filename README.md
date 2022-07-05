@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmmaTG
 - 👀 I’m interested in fullstack software devleopement
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, react
 
 Always trying to think of ideas for projects to test and learn new things!
 
